@@ -1,0 +1,22 @@
+TicketID,Name,Category,PurchaseTime,EntryStatus,SeatNumber,Price,PaymentStatus,ExitStatus
+1001,JOENN,VIP,2025-03-10 08:30:00,False,A12,150.00,Paid,False
+1002,Bob Johnson,Early-Bird,2025-03-10 09:00:00,True,B05,100.00,Paid,True
+1003,Charlie Lee,Public,2025-03-11 10:15:00,False,C23,80.00,Unpaid,False
+1004,Diana Garcia,VIP,2025-03-11 11:45:00,True,A10,150.00,Paid,False
+1005,Edward Wilson,Public,2025-03-12 12:00:00,True,C12,80.00,Paid,False
+1006,Francis Hall,VIP,2025-03-12 13:20:00,True,A05,150.00,Paid,False
+1007,Grace Moore,Early-Bird,2025-03-13 14:10:00,False,B09,100.00,Unpaid,False
+1008,Henry Scott,VIP,2025-03-14 15:05:00,True,A07,150.00,Paid,False
+1009,Irene Wright,Public,2025-03-14 16:30:00,True,C18,80.00,Paid,False
+1010,Jack Thomas,Early-Bird,2025-03-15 17:45:00,True,B14,100.00,Paid,False
+1011,Karen White,VIP,2025-03-16 18:00:00,True,A03,150.00,Paid,False
+1012,Liam Martin,Public,2025-03-16 19:20:00,False,C08,80.00,Unpaid,False
+1013,Mary Adams,Early-Bird,2025-03-17 20:35:00,True,B22,100.00,Paid,False
+1014,Nathaniel Baker,VIP,2025-03-18 21:50:00,True,A15,150.00,Paid,False
+1015,Olivia Harris,Public,2025-03-19 08:05:00,True,C05,80.00,Paid,False
+1016,Patrick Nelson,VIP,2025-03-20 09:40:00,True,A11,150.00,Paid,False
+1017,Quincy Evans,Early-Bird,2025-03-21 10:55:00,False,B07,100.00,Unpaid,False
+1018,Rachel Green,Public,2025-03-22 11:10:00,True,C20,80.00,Paid,False
+1019,Samuel Carter,VIP,2025-03-23 12:25:00,True,A06,150.00,Paid,False
+1020,Tina Brooks,Early-Bird,2025-03-24 13:30:00,True,B17,100.00,Paid,False
+1021,hello,VIP,2025-03-17 15:23:17,True,A99,150.00,Paid,True
